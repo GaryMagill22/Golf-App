@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "466683770848",
+    "project_id": "reactnativegolfapp",
+    "storage_bucket": "reactnativegolfapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466683770848:android:6a6f3dc07a586e7a235d85",
+        "android_client_info": {
+          "package_name": "com.allsquarereactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466683770848-mo0ga169c9euhru2gd5htv5q3oq3m04t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allsquarereactnative",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "466683770848-hmgf1nvdkgllqdhuaak80f572got58rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHRiKr-Q1rd9mVj9c7wtwo7zlvQZNREao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466683770848-hmgf1nvdkgllqdhuaak80f572got58rn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "466683770848-hkt9behkpb5heieaimug2a5k461mtniq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AllSquareReactNative"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
