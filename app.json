@@ -37,13 +37,26 @@
         {
         "ios": {
           "useFrameworks": "static"
+        },
+        "android": {
+          "enableProguardInReleaseBuilds": true
         }
+
       }],
       "@react-native-firebase/app",
       "@react-native-firebase/auth"
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "firebaseApiKey": "AIzaSyBlxvlcTeZ4GVywmVbFdn6r1AWySEkgBco",
+      "firebaseAuthDomain": "reactnativegolfapp.firebaseapp.com",
+      "firebaseProjectId": "reactnativegolfapp",
+      "firebaseStorageBucket": "reactnativegolfapp.appspot.com",
+      "firebaseMessagingSenderId": "466683770848",
+      "firebaseAppId": "1:466683770848:web:91cc0133b6286202235d85"
     }
   }
 }
+
