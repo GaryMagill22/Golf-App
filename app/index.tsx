@@ -12,7 +12,7 @@ import {
 import { useRouter } from 'expo-router';
 import { getFirestore, doc, setDoc } from 'firebase/firestore';
 import { createUserWithEmailAndPassword, signInWithEmailAndPassword, deleteUser } from 'firebase/auth';
-import { FIREBASE_APP, FIREBASE_AUTH, FIREBASE_DB } from '@/FirebaseConfig';
+import { FIREBASE_APP, FIREBASE_AUTH, FIREBASE_DB } from '@/firebaseConfig';
 
 
 const AuthIndex = () => {
